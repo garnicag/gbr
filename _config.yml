@@ -1,6 +1,6 @@
 # main text of home
 name: gbr
-bio: Web Dev and other sauces
+bio: Web Dev and other things
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -56,7 +56,7 @@ email: base@gbr.pw
 authors:
     gbr:
         name: gbr
-        bio: Web dev and other sauces
+        bio: Web Dev and other things
         external-image: false
         picture: assets/images/profile.jpg
         # twitter: johndoe
