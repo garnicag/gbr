@@ -1,19 +1,19 @@
 # main text of home
-name: gbr
-bio: Web Dev and other things
+name: Garnica.G
+bio: Web Dev and other things.
 
 # twitter summary info
 description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/profile.jpg
+external-image: true
+picture: https://avatars1.githubusercontent.com/u/13151940?s=460&v=4
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: false
-resume-external: true
+resume-external: false
 resume-url: https://google.com/?q=my+resume
 
 url: https://gbr.pw
@@ -74,7 +74,7 @@ width: normal
 # projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: true
+# about: true
 # blog: true
 
 # do you want to show the "read time" of the posts?
